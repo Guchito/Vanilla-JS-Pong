@@ -1,0 +1,12 @@
+header{
+    text-align: center;
+}
+canvas{
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: #222;
+    color: #eee;
+    font-family: monospace;
+}
