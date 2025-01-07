@@ -17,6 +17,9 @@ Pong is a two-player game where players hit a ball back and forth on a simple co
 
 ## View live demo
 
+You can view the live website at: [Pong](https://vanillajs-pong.netlify.app/)
+
+
 
 ## Code Structure
 The game is implemented in the following files:  
